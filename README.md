@@ -122,7 +122,7 @@ A test endpoint that returns "1".
 
 ## Installation ⚙️
 
-1. Clone the repository: `git clone https://github.com/your-username/vinted-api.git`
+1. Clone the repository: `git clone https://github.com/MrBalourd/Vinted-API.git`
 2. Navigate to the project directory: `cd vinted-api`
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
